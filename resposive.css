@@ -1,0 +1,46 @@
+@media(max-width:1200px){
+    .header-logo img {
+        width: 130px;
+        height: 50px;
+        margin-top: 5px;
+        margin-bottom: -15px;
+    }
+    .header-menu ul {
+        margin-top: -45px;
+    }
+    .about {
+        margin-bottom: -255px;
+    }
+    .about-img {
+        padding: 0;
+    }
+    .about-text {
+        padding: 0;
+        position: relative;
+        top: -232px;
+        left: 300px;
+        width: 655px;
+    }
+    .design {
+        background: #fffaf0;
+        margin-bottom: -440px;
+    }
+    .design-text {
+        border: 4px dotted #ddd;
+        width: 300px;
+        height: 220px;
+        text-align: center;
+        border-radius: 50px 0 50px 0;
+        padding: 15px;
+    }
+    .design-text.two {
+        position: relative;
+        top: -226px;
+        left: 330px;
+    }
+    .design-text.three {
+        position: relative;
+        top: -451px;
+        left: 660px;
+    }
+}

@@ -1,0 +1,87 @@
+.header-section{
+    background: #f5c874;
+}
+.header-logo{}
+.header-logo img {
+    width: 150px;
+    height: 50px;
+    margin-top: 5px;
+}
+.header-menu{}
+.header-menu ul{}
+.header-menu ul li {
+    padding: 0 15px;
+}
+.header-menu ul li a{
+    text-decoration: none;
+    color: #fff !important;
+}
+.banner{
+    background: url(https://i.ibb.co/PtnV3YC/intro-bg.jpg) no-repeat;
+    padding: 150px 12px;
+    background-size: 100% 100%;
+}
+.banner-text{
+    color: #3498db;
+}
+.banner-text h4{}
+.banner-text h3 {
+    font-size: 35px;
+    margin-top: 25px;
+}
+.about{}
+.about-img {
+    padding: 0 45px;
+}
+.about-img img {
+    width: 260px !important;
+    height: auto;
+}
+.about-text {
+    padding: 20px 60px;
+}
+.about-text h3{}
+.about-text h4{}
+.about-text p{}
+.design{
+    background: #fffaf0;
+}
+.design-text {
+    border: 4px dotted #ddd;
+    width: 350px;
+    height: 225px;
+    text-align: center;
+    border-radius: 50px 0 50px 0;
+    padding: 15px;
+}
+.d-text-icon {
+    border: 2px solid #3598db;
+    border-radius: 15px 0 15px 0;
+    width: 55px;
+    height: 50px;
+    margin: auto;
+}
+.design-text .d-text-icon i {
+    font-size: 30px;
+    color: #3598db;
+    line-height: 48px;
+}
+.design-text h3{}
+.design-text p{}
+.footer{
+    background: #2c3e50;
+}
+.footer-left{}
+.footer-left ul{
+    list-style: none;
+    padding: 0;
+    text-align: right;
+}
+.footer-left ul li{
+    display: inline;
+}
+.footer-left ul li a {
+    color: #fff;
+    padding: 0 10px;
+    display: inline;
+}
